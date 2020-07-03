@@ -1,0 +1,84 @@
+body{
+  background-image: linear-gradient(315deg, #f1dfd1 0%, #f6f0ea 74%);;
+}
+
+#content,
+#authorize-button,
+#signout-button {
+  display: none;
+}
+
+.collection .collection-item {
+background-color:#b31217;
+font-family: 'Montserrat', sans-serif;
+}
+
+#logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 100px;
+  padding-top: 20px;
+}
+
+#statement{
+  text-align: center;
+  padding-top: 0px;
+  font-family: 'Roboto Mono', monospace;
+  font-size: large;
+}
+
+.row{
+  margin-bottom: 0px;
+}
+
+#statement::after{
+  color:violet;
+}
+
+.btn{
+  background-color:#FF0000 ;
+}
+
+#authorize-button{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  border-radius: 10%;
+}
+
+#submit{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#FF0000;
+  color: white;
+}
+
+#signout-button{
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+}
+
+
+#channel-data{
+  text-align: center;
+}
+
+.info{
+  color: aqua;
+  text-align: start;
+ font-size: 1.64rem;
+  
+  margin: 0.0933333333rem 0 .656rem 0;
+}
+
+#visit-btn{
+  font-family: 'Merriweather', serif;
+}
+
+
+
+
+
