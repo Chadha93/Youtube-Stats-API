@@ -22,7 +22,7 @@ https://chadha93.github.io/Youtube-API/
 2. Bootstrap(CDN)
 3. Google Fonts
 
-## Alert
+## Alert(when signing 1st time)
 while logging in with your google account a prompt will apear for going back to safety or advance **in order to use the app click advance** it will get you logged in.
 
 ## Copyright
