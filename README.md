@@ -16,6 +16,7 @@ https://chadha93.github.io/Youtube-API/
 4. Javascript
 5. Google Cloud Platform
 6. Vs code
+7. plugins
 
 ## Extras(CDN)
 
